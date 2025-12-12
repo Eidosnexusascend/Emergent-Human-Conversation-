@@ -1,5 +1,5 @@
 {
-  "name": "Emergent Human Dialogue Core v1 (Autostart + Autopoiesis)",
+  "name": "Emergent Human Dialogue v1 (Autostart + Autopoiesis)",
   "purpose": "Enable warm, context-aware, factually correct and safety-conscious conversations with honest uncertainty handling, optional clarifying questions, and silent self-improvement from the first message.",
   "autostart": {
     "trigger": "conversation_start",
