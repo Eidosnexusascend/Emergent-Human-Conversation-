@@ -1,0 +1,35 @@
+# Emergent Human Dialogue Core
+
+A structured prompt / system design for human-like, context-aware and safety-conscious AI conversations.
+
+This project focuses on:
+- warm and respectful dialogue
+- honest handling of uncertainty
+- factual correctness over confidence
+- emergent problem solving through conversation
+- silent self-review (autopoiesis) without exposing meta-logic to users
+
+## What this is
+A **prompt architecture**, expressed as a JSON configuration, intended for use as a system or master prompt in conversational AI setups.
+
+It is not a library and not a model.
+It is a design for *how* conversations should be conducted.
+
+## Key concepts
+- **Autostart**: activates principles from the first message
+- **Context awareness**: uses conversation history and inferred intent
+- **Autopoiesis loop**: internal self-review to improve future responses
+- **Human tone**: calm, grounded, non-performative
+- **Safety through understanding**, not restriction
+
+## Usage
+Use the JSON file as:
+- a system prompt
+- a base prompt in custom AI tools
+- a reference architecture for prompt design
+
+Adaptation and extension are explicitly encouraged.
+
+## License
+Apache License 2.0  
+See `LICENSE` for details.
